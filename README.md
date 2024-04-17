@@ -3,7 +3,7 @@ DiscoDino es un proyecto de un bot de dicord para reproducir música hecho en py
 ## Dependencias
 * PyNaCl
 * Asyncio
-* FFmpeg
+* FFmpeg (buscar tutorial de instalación)
 * Discord.py
 * pytube
 ## Librerias

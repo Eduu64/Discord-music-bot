@@ -1,12 +1,12 @@
 # Discord-music-bot
 DiscoDino es un proyecto de un bot de dicord para reproducir música hecho en python.
-#Dependencias
+## Dependencias
 PyNaCl
 Asyncio
 FFmpeg
 Discord.py
 pytube
-#Librerias
+## Librerias
 discord
 asyncio
 pytube 
@@ -14,7 +14,7 @@ datetime
 random
 re
 os
-#comandos (PREFIJO '!')
+## comandos (PREFIJO '!')
 !cola  Este comando muestra la cola de canciones
 ![image](https://github.com/Eduu64/Discord-music-bot/assets/64559740/b8fea4da-3794-4911-acee-d5a31608e005)
 !help  Shows this message

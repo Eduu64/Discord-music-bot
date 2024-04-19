@@ -1,9 +1,10 @@
 # DiscoDino - Bot de Música para Discord
 
 DiscoDino es un proyecto de un bot para Discord diseñado para la reproducción de música, desarrollado en Python.
-<p align="center">
-<img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/87b90a3b-f284-40c7-8649-f7f8d50b1a84" style="border-radius: 20px;"/>
-</p>
+
+<div align="center">
+  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/87b90a3b-f284-40c7-8649-f7f8d50b1a84" alt="banner" style="border-radius: 10px;" />
+</div>
 
 ## Ventajas
 
@@ -36,25 +37,25 @@ DiscoDino es un proyecto de un bot para Discord diseñado para la reproducción 
 
 Muestra la cola de reproducción actual.
 
-<p align="center">
-  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/b8fea4da-3794-4911-acee-d5a31608e005" alt="cola" />
-</p>
+<div align="center">
+  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/b8fea4da-3794-4911-acee-d5a31608e005" alt="cola" style="border-radius: 10px;" />
+</div>
 
 ### `!help`
 
 Muestra este mensaje de ayuda.
 
-<p align="center">
-  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/ec6d470e-b91b-46be-a3df-38a93e05ac70" alt="help" />
-</p>
+<div align="center">
+  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/ec6d470e-b91b-46be-a3df-38a93e05ac70" alt="help" style="border-radius: 10px;" />
+</div>
 
 ### `!info`
 
 Obtén información sobre el bot.
 
-<p align="center">
-  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/d8b31260-022d-47d6-b7b9-f95776282da1" alt="info" />
-</p>
+<div align="center">
+  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/d8b31260-022d-47d6-b7b9-f95776282da1" alt="info" style="border-radius: 10px;" />
+</div>
 
 ### `!play`
 
@@ -62,21 +63,21 @@ Añade una canción a la cola de reproducción.
 
 - Reproduce canciones de YouTube (ya sea una URL de playlist o una canción individual) y también permite la búsqueda por nombre.
 
-<p align="center">
-  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/4dd58840-6d45-42a9-9765-0c9a006d9b8d" alt="play1" />
-</p>
+<div align="center">
+  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/4dd58840-6d45-42a9-9765-0c9a006d9b8d" alt="play1" style="border-radius: 10px;" />
+</div>
 
-<p align="center">
-  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/f4c7c4a2-4541-424e-80ee-6fae8d686824" alt="play2" />
-</p>
+<div align="center">
+  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/f4c7c4a2-4541-424e-80ee-6fae8d686824" alt="play2" style="border-radius: 10px;" />
+</div>
 
 ### `!skip`
 
 Salta la canción actual en reproducción.
 
-<p align="center">
-  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/80abb290-cfd9-4e9b-87f9-0da29c1d17d7" alt="skip" />
-</p>
+<div align="center">
+  <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/80abb290-cfd9-4e9b-87f9-0da29c1d17d7" alt="skip" style="border-radius: 10px;" />
+</div>
 
 ### `!join`
 
@@ -85,5 +86,3 @@ Indica al bot unirse al canal de voz.
 ### `!leave`
 
 Indica al bot abandonar el canal de voz.
-
-

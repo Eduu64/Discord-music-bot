@@ -51,7 +51,7 @@ Muestra este mensaje de ayuda.
 
 <div align="center">
   <a href="https://github.com/Eduu64/Discord-music-bot/assets/64559740/ec6d470e-b91b-46be-a3df-38a93e05ac70">
-    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/ec6d470e-b91b-46be-a3df-38a93e05ac70" alt="help" height="400" width="400" style="border-radius: 50%" />
+    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/ec6d470e-b91b-46be-a3df-38a93e05ac70" alt="help" height="auto" width="400" style="border-radius: 50%" />
   </a>
 </div>
 

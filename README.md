@@ -1,6 +1,8 @@
 # Discord-music-bot
 DiscoDino es un proyecto de un bot de dicord para reproducir música hecho en python.
 
+![banner](https://github.com/Eduu64/Discord-music-bot/assets/64559740/87b90a3b-f284-40c7-8649-f7f8d50b1a84)
+
 Ventajas:
 * Permite reproducir canciones/playlist de YouTube
 * Tener colas de canciones para que se vayan reproduciendo

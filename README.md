@@ -2,7 +2,7 @@
 
 DiscoDino es un proyecto de un bot para Discord diseñado para la reproducción de música, desarrollado en Python.
 <p align="center">
-<img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/87b90a3b-f284-40c7-8649-f7f8d50b1a84"/>
+<img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/87b90a3b-f284-40c7-8649-f7f8d50b1a84" style="border-radius: 10px;"/>
 </p>
 
 ## Ventajas

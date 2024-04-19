@@ -4,7 +4,7 @@ DiscoDino es un proyecto de un bot para Discord diseñado para la reproducción 
 
 <div align="center">
   <a href="https://github.com/Eduu64/Discord-music-bot/assets/64559740/87b90a3b-f284-40c7-8649-f7f8d50b1a84">
-    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/87b90a3b-f284-40c7-8649-f7f8d50b1a84" alt="banner" height="auto" width="400" style="border-radius: 50px;" />
+    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/87b90a3b-f284-40c7-8649-f7f8d50b1a84" alt="banner" height="auto" width="400" style="border-radius: 250px;" />
   </a>
 </div>
 

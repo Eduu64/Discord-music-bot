@@ -86,4 +86,4 @@ Indica al bot unirse al canal de voz.
 
 Indica al bot abandonar el canal de voz.
 
-```
+

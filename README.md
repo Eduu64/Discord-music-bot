@@ -4,7 +4,7 @@ DiscoDino es un proyecto de un bot para Discord diseñado para la reproducción 
 
 <div align="center">
   <a href="https://github.com/Eduu64/Discord-music-bot/assets/64559740/87b90a3b-f284-40c7-8649-f7f8d50b1a84">
-    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/87b90a3b-f284-40c7-8649-f7f8d50b1a84" alt="banner" height="auto" width="200" style="border-radius: 50px" />
+    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/87b90a3b-f284-40c7-8649-f7f8d50b1a84" alt="banner" height="auto" width="400" style="border-radius: 50%" />
   </a>
 </div>
 
@@ -41,7 +41,7 @@ Muestra la cola de reproducción actual.
 
 <div align="center">
   <a href="https://github.com/Eduu64/Discord-music-bot/assets/64559740/b8fea4da-3794-4911-acee-d5a31608e005">
-    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/b8fea4da-3794-4911-acee-d5a31608e005" alt="cola" height="auto" width="200" style="border-radius: 50%;" />
+    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/b8fea4da-3794-4911-acee-d5a31608e005" alt="cola" height="auto" width="400" style="border-radius: 50%;" />
   </a>
 </div>
 
@@ -51,7 +51,7 @@ Muestra este mensaje de ayuda.
 
 <div align="center">
   <a href="https://github.com/Eduu64/Discord-music-bot/assets/64559740/ec6d470e-b91b-46be-a3df-38a93e05ac70">
-    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/ec6d470e-b91b-46be-a3df-38a93e05ac70" alt="help" height="auto" width="200" style="border-radius: 50%;" />
+    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/ec6d470e-b91b-46be-a3df-38a93e05ac70" alt="help" height="auto" width="400" style="border-radius: 50%;" />
   </a>
 </div>
 
@@ -61,7 +61,7 @@ Obtén información sobre el bot.
 
 <div align="center">
   <a href="https://github.com/Eduu64/Discord-music-bot/assets/64559740/d8b31260-022d-47d6-b7b9-f95776282da1">
-    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/d8b31260-022d-47d6-b7b9-f95776282da1" alt="info" height="auto" width="200" style="border-radius: 50%;" />
+    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/d8b31260-022d-47d6-b7b9-f95776282da1" alt="info" height="auto" width="400" style="border-radius: 50%;" />
   </a>
 </div>
 
@@ -73,13 +73,13 @@ Añade una canción a la cola de reproducción.
 
 <div align="center">
   <a href="https://github.com/Eduu64/Discord-music-bot/assets/64559740/4dd58840-6d45-42a9-9765-0c9a006d9b8d">
-    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/4dd58840-6d45-42a9-9765-0c9a006d9b8d" alt="play1" height="auto" width="200" style="border-radius: 50%;" />
+    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/4dd58840-6d45-42a9-9765-0c9a006d9b8d" alt="play1" height="auto" width="400" style="border-radius: 50%;" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Eduu64/Discord-music-bot/assets/64559740/f4c7c4a2-4541-424e-80ee-6fae8d686824">
-    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/f4c7c4a2-4541-424e-80ee-6fae8d686824" alt="play2" height="auto" width="200" style="border-radius: 50%;" />
+    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/f4c7c4a2-4541-424e-80ee-6fae8d686824" alt="play2" height="auto" width="400" style="border-radius: 50%;" />
   </a>
 </div>
 
@@ -89,7 +89,7 @@ Salta la canción actual en reproducción.
 
 <div align="center">
   <a href="https://github.com/Eduu64/Discord-music-bot/assets/64559740/80abb290-cfd9-4e9b-87f9-0da29c1d17d7">
-    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/80abb290-cfd9-4e9b-87f9-0da29c1d17d7" alt="skip" height="auto" width="200" style="border-radius: 50%;" />
+    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/80abb290-cfd9-4e9b-87f9-0da29c1d17d7" alt="skip" height="auto" width="400" style="border-radius: 50%;" />
   </a>
 </div>
 

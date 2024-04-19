@@ -51,7 +51,7 @@ Muestra este mensaje de ayuda.
 
 <div align="center">
   <a href="https://github.com/Eduu64/Discord-music-bot/assets/64559740/ec6d470e-b91b-46be-a3df-38a93e05ac70">
-    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/ec6d470e-b91b-46be-a3df-38a93e05ac70" alt="help" />
+    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/ec6d470e-b91b-46be-a3df-38a93e05ac70" alt="help" height="auto" width="600" style="border-radius: 50%" />
   </a>
 </div>
 
@@ -73,7 +73,7 @@ Añade una canción a la cola de reproducción.
 
 <div align="center">
   <a href="https://github.com/Eduu64/Discord-music-bot/assets/64559740/4dd58840-6d45-42a9-9765-0c9a006d9b8d">
-    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/4dd58840-6d45-42a9-9765-0c9a006d9b8d" alt="play1" height="auto"  style="border-radius: 50%" />
+    <img src="https://github.com/Eduu64/Discord-music-bot/assets/64559740/4dd58840-6d45-42a9-9765-0c9a006d9b8d" alt="play1" height="auto" width="600" style="border-radius: 50%" />
   </a>
 </div>
 
